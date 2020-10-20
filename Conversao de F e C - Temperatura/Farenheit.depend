@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1599279154 source:c:\users\pichau\desktop\faculdade\2 semestre\algoritmos\lista1clasroom\farenheit\celsius\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1599361115 source:c:\users\pichau\desktop\faculdade\2 semestre\algoritmos\lista1clasroom\conversaodetemperatura\main.c
+	<stdio.h>
+	<stdlib.h>
+

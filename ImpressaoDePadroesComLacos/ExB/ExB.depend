@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602029871 source:c:\users\pichau\desktop\faculdade\2 semestre\algoritmos\trabalhos\2-bimestre\lacosderepeticaodentrodesimesmos\exb\main.c
+	<stdio.h>
+	<stdlib.h>
+
