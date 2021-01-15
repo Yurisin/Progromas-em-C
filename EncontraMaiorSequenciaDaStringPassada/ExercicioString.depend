@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605202995 source:c:\users\pichau\desktop\faculdade\2 semestre\algoritmos\trabalhos\2-bimestre\exerciciostring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1605203147 source:c:\users\pichau\desktop\2 semestre\algoritmos\trabalhos\2-bimestre\exerciciostring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
